@@ -1,0 +1,3 @@
+__pycache__/
+*.py[cod]
+outputs/scored_latest_check.csv
