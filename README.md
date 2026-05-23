@@ -31,6 +31,19 @@ Optional inputs:
 - `outputs/latest_risk_predictions.csv`
 - `outputs/model_report.md`
 
+## Notebook Walkthrough
+
+Open `notebooks/forest_fire_model_walkthrough.ipynb` to inspect each step visually:
+
+- raw CSV checks
+- missing values and distributions
+- station mapping
+- feature engineering
+- train/test split
+- occurrence model evaluation
+- spread model evaluation
+- latest station risk table
+
 ## Score New Weather Rows
 
 ```powershell
